@@ -6,4 +6,4 @@ Objective :- To test the Login page of app.vwo.com, generate the Test Plan, Test
 
 Deliverables :-
 1. Test_Plan.pdf - Test plan covering scope, approach, and timeline.
-2. Test_Cases.xlsx - 40+ detailed test cases for Login and Dashboard.
+2. Test_Cases.xlsx - 40+ detailed test cases for Login and Dashboard Page.
