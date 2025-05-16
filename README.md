@@ -5,5 +5,5 @@ Projects and experiments in quality assurance, software testing, and automation 
 Objective :- To test the Login page of app.vwo.com, Login and Dashbard and generate the Test Plan, Test Cases.
 
 Deliverables :-
-Test_Plan_app_vwo.xlsx - It Detailed Test Plan for app.vwo.com login and dashboard modules, including scope, objectives, resources, test environment, risks, and deliverables.
-Test_Cases_app_vwo.xlsx - It Contains 40 well-structured test cases for login and dashboard, covering functional, validation, UI, and security aspects with expected and actual results.
+1. Test_Plan_app_vwo.xlsx - Test plan covering scope, approach, and timeline.
+2. Test_Cases_app_vwo.xlsx - 40 detailed test cases for Login and Dashboard.
